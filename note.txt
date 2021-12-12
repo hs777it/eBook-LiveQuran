@@ -1,0 +1,7 @@
+
+
+Flutter 1.22.6
+
+Dart 2.10.5
+
+Android Build-tools : 29.0.2 [android-29]

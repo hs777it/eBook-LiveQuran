@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Data-Soft/Mobile Apss/_Quran/eBook/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/hs07/.gradle/caches/transforms-2/files-2.1/9b174b69dc618f3b76dcd5cb6d4839cc/folioreader-0.6.2/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}
